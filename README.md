@@ -231,7 +231,6 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 <a href="https://github.com/Ivanmods15"><img src="https://github.com/Ivanmods15.png" width="100" height="100" alt="Ivanmods15"/></a>
 
 ### ✨ CREADOR 
-<a
 > Copyright (c) 2024 
 ** [JoseXrl](https://wa.me/51950148255)**.
 

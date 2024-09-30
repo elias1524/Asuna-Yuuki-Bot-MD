@@ -233,6 +233,6 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ### ✨ CREADOR 
 > Copyright (c) 2024 
 
-** [JoseXrl](https://wa.me/51950148255)**.
+** JoseXrl (https://wa.me/51950148255)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🌩️**

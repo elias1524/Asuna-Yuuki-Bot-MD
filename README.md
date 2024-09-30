@@ -49,6 +49,7 @@ UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods15](https://github.com
 #### Realizado con: Dioneibi
 #### Rudeus mods
 #### Kirito Domina
+#### Ivan
 
 #### Para Yanina 🤗❤️
 
@@ -231,8 +232,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ### ✨ CREADOR 
 <a
-href="https://github.com/TigresitoCazador"><img src="https://https://github.com/tigresitocazador.png" width="130" height="130" alt="TigresitoCazador"/></a>
-
-> Copyright (c) 2024 **[JoseXrl](https://wa.me/51950148255)**.
+> Copyright (c) 2024 
+** [JoseXrl](https://wa.me/51950148255)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🌩️**
